@@ -30,6 +30,16 @@ Presented at the 10th International Conference on Mining Intelligence and Knowle
 The research focuses on analyzing behavioral features from social media activity and applying machine learning techniques to predict indicators of depression. Multiple algorithms were evaluated to compare classification performance and clustering patterns.
 --
 
+⭐ Portfolio Highlights
+🧠 Predicting Depression Through Social Media Behavior
+
+Type: Research Project
+Focus: Behavioral feature analysis with hybrid machine learning approaches
+Methods: SVM, KNN, ID3, Naive Bayes, K-Means, K-Medoids
+Outcome: Comparative evaluation of classification and clustering models for detecting depression indicators from social media behavior.
+Recognition: Presented at the 10th International Conference on Mining Intelligence and Knowledge Exploration (MIKE-2025).
+
+--
 ## 🧠 Areas of Interest
 
 * Artificial Intelligence
@@ -125,6 +135,3 @@ Email: *ankith.ravishankar@gmail.com*
 ---
 
 ⭐ *Exploring data, building intelligent systems, and continuously learning.*
-## 🐍 Contribution Graph
-
-![Snake animation](https://github.com/AnkithR10/AnkithR10/blob/output/github-contribution-grid-snake.svg)
