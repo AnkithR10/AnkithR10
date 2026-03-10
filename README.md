@@ -90,11 +90,6 @@ Applied data mining techniques to analyze factors affecting life expectancy acro
 Research project analyzing social media behavior using machine learning algorithms including **SVM, KNN, ID3, Naive Bayes, K-Means, and K-Medoids**.
 
 ---
-## 📈 Contribution Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnkithR10&theme=github)
-
----
 
 ## 🔥 GitHub Streak
 
