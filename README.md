@@ -96,17 +96,9 @@ Research project analyzing social media behavior using machine learning algorith
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnkithR10&show_icons=true)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnkithR10&layout=compact)
----
-
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AnkithR10)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=AnkithR10&theme=github-dark)
 ---
 
 ## 📚 Currently Learning
