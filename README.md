@@ -1,3 +1,7 @@
+![Banner](Banner.png)
+<p align="center">
+  <img src="banner.png" />
+</p>
 #👋 Hi, I'm Ankith
 
 🎓 MCA Student specializing in Artificial Intelligence & Data Science
