@@ -1,146 +1,127 @@
-<p align="center">
-  <img src="Banner.png" alt="Ankith Banner" />
-</p>
+# 👋 Hi, I'm Ankith
 
-<h1 align="center">Hi, I'm Ankith 👋</h1>
+🎓 MCA (Artificial Intelligence & Data Science) Student at Amrita Vishwa Vidyapeetham, Mysuru
+📊 Machine Learning | Data Science | Data Analytics
+📄 Research Presenter at MIKE-2025
+🚀 Passionate about solving real-world problems using data-driven approaches
 
-<p align="center">
-  MCA Student in Artificial Intelligence & Data Science <br>
-  Amrita Vishwa Vidyapeetham, Mysuru, India
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnkithR10&style=for-the-badge" alt="Profile Views" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=AnkithR10)
 
 ---
 
-## About Me
+## 🚀 About Me
 
-I am an MCA student specializing in **Artificial Intelligence and Data Science**, with a strong academic interest in machine learning, data analysis, data mining, and research-oriented AI applications.
+I am a postgraduate student specializing in Artificial Intelligence and Data Science with a strong interest in Machine Learning, Data Analytics, and Data Mining.
 
-My work focuses on solving practical problems using data-driven methods, from understanding datasets and extracting patterns to building predictive models and interpreting results in a meaningful way. I prefer a structured workflow: problem understanding, preprocessing, model development, evaluation, and insight generation.
+My work focuses on transforming raw data into meaningful insights through statistical analysis, visualization, predictive modeling, and machine learning techniques. I enjoy exploring real-world datasets, identifying patterns, and developing solutions that support data-driven decision-making.
 
-Over the course of my academic journey, I have completed multiple projects in machine learning and data analytics using Python and Google Colab, covering domains such as retail analytics, transportation, health statistics, salary trends, and intelligent decision systems.
+I have completed projects spanning retail analytics, transportation analytics, job market intelligence, life expectancy analysis, and social media behavior analysis. Alongside academic projects, I actively pursue certifications and hands-on learning to strengthen my technical and research skills.
 
----
-
-## Current Project
-
-### AI-Based Sign Language Recognition Using Search Techniques
-
-This is my current MCA project, focused on improving sign language recognition using AI-driven search strategies along with deep learning models.
-
-**Project Highlights**
-- Dataset: **SignAlphaSet**
-- CNN pipeline integrated with **Best-First Search**
-- RNN pipeline integrated with **Hill-Climbing**
-- Focus area: intelligent search-guided optimization for sign language recognition
-- Academic purpose: MCA project in AI & Data Science
-
-**Why this project matters**
-Traditional sign language recognition models often focus only on classification performance. In this work, the emphasis is on integrating **AI search techniques** into the recognition pipeline to make the approach more intelligent, optimized, and research-driven.
+My long-term goal is to contribute to impactful AI solutions that combine analytical thinking, research, and practical implementation.
 
 ---
 
-## Research Work
+## 📄 Research & Publications
 
 ### Predicting Depression Through Social Media Behavior: Integrating Behavioral Features and Hybrid Methodologies
 
-This research project explored behavioral patterns from social media activity and applied machine learning techniques to predict indicators of depression.
+Presented at the **10th International Conference on Mining Intelligence and Knowledge Exploration (MIKE-2025)**.
 
-**Key Points**
-- Compared classification and clustering approaches
-- Algorithms used: **SVM, KNN, ID3, Naive Bayes, K-Means, K-Medoids**
-- Focused on behavioral feature extraction and hybrid methodology analysis
-- Presented at the **10th International Conference on Mining Intelligence and Knowledge Exploration (MIKE-2025)**
+This research explores the use of behavioral features extracted from social media data and applies machine learning techniques to identify indicators of depression. The study includes comparative analysis of multiple classification and clustering algorithms to evaluate predictive performance and behavioral patterns.
 
 ---
 
-## Portfolio Highlights
+## 🛠 Technical Skills
 
-### Sign Language Recognition AI Project
-AI-based sign language recognition project using **SignAlphaSet**, combining **CNN with Best-First Search** and **RNN with Hill-Climbing** for search-guided intelligent recognition.
+### Programming Languages
 
-### Predicting Depression Through Social Media Behavior
-Research-driven project analyzing behavioral signals from social media using classification and clustering algorithms for depression prediction.
+* Python
+* C
 
-### BigMart Sales Prediction
-Machine learning project focused on predicting retail sales and understanding product demand patterns.
+### Data Science & Machine Learning
 
-### Uber Data Analysis
-Exploratory data analysis project to uncover ride trends, demand behavior, and travel insights.
+* Pandas
+* NumPy
+* Scikit-Learn
+* Data Mining
+* Machine Learning
+* Predictive Analytics
+* Statistical Analysis
 
-### Starbucks Data Analytics
-Data analysis project to identify product trends and customer-related insights from Starbucks data.
+### Data Visualization
 
-### Data Science Job Market Analysis
-Analytical project studying salary patterns, demand trends, and role distribution in the global data science market.
+* Matplotlib
+* Exploratory Data Analysis (EDA)
 
-### Life Expectancy Data Mining
-Applied data mining techniques to study the factors influencing life expectancy across countries.
+### Platforms & Tools
 
----
-
-## Areas of Interest
-
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Data Mining
-- Predictive Analytics
-- Research-Oriented AI Applications
-- Intelligent Systems
+* Google Colab
+* GitHub
+* Jupyter Notebook
 
 ---
 
-## Tech Stack
+## ⭐ Portfolio Highlights
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+### 🧠 Social Media & Mental Health Research
 
----
+Machine learning research project comparing SVM, KNN, ID3, Naive Bayes, K-Means, and K-Medoids to analyze social media behavioral patterns related to depression indicators.
 
-## Currently Learning
+### 🌍 Life Expectancy Data Mining
 
-- Advanced Machine Learning Techniques
-- AI Search Algorithms
-- Research Methodologies in Artificial Intelligence
-- Scalable Data Systems
-- Model Optimization Strategies
+Applied data mining techniques to study the impact of social, economic, and healthcare factors on global life expectancy.
 
----
+### 📈 BigMart Sales Prediction
 
-## Goals
+Developed predictive models for retail sales forecasting through data preprocessing, feature engineering, and machine learning.
 
-- Build impactful AI and Data Science solutions
-- Contribute to research in intelligent systems
-- Strengthen expertise in machine learning and intelligent decision-making
-- Develop practical, research-backed AI applications
+### 🚖 Uber Data Analysis
+
+Performed exploratory data analysis to identify ride demand trends, peak usage periods, and travel patterns.
+
+### ☕ Starbucks Data Analytics
+
+Analyzed customer and product-related datasets to derive business insights and visualize trends.
+
+### 💼 Data Science Job Market Analysis
+
+Studied salary trends, industry demand, and skill requirements across the global data science job market.
 
 ---
 
-## GitHub Stats
+## 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AnkithR10&theme=github-dark" alt="GitHub Streak" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnkithR10\&show_icons=true)
 
----
-
-## Connect With Me
-
-- **LinkedIn:** [ankith-r](https://www.linkedin.com/in/ankith-r-/)
-- **Email:** ankith.ravishankar@gmail.com
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkithR10\&layout=compact)
 
 ---
 
-## Profile Note
+## 📚 Currently Learning
 
-Passionate about exploring data, building intelligent systems, and continuously growing through research, experimentation, and practical implementation.
+* Advanced Machine Learning
+* Algorithm Design and Analysis
+* AI Research Methodologies
+* Data Engineering Fundamentals
+* Scalable Data Systems
+
+---
+
+## 🎯 Career Objectives
+
+* Build impactful AI and Data Science solutions
+* Contribute to research in Machine Learning and Intelligent Systems
+* Strengthen expertise in Predictive Analytics and Data-Driven Decision Making
+* Develop industry-ready AI applications with real-world impact
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/AnkithR10
+* LinkedIn: https://www.linkedin.com/in/ankith-r/
+* Email: [ankith.ravishankar@gmail.com](mailto:ankith.ravishankar@gmail.com)
+
+---
+
+⭐ *"Transforming data into insights and insights into intelligent solutions."*
