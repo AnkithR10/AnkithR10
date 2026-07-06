@@ -24,14 +24,12 @@
 I'm a data enthusiast and aspiring ML Engineer who believes that every dataset has a story waiting to be told. From predicting depression through social media behaviour to building AI-powered email classifiers, I work at the intersection of **research, machine learning, and real-world impact**.
 
 ```python
-ankith = {
+Ankith = {
     "role"       : "Data Scientist / ML Engineer (Aspiring)",
     "education"  : "MCA – AI & Data Science @ Amrita Vishwa Vidyapeetham",
     "research"   : "First-author paper @ MIKE 2026 on Depression Prediction via Social Media",
     "internship" : "Team Lead (22 members) – AI-Powered Smart Email Classifier @ Infosys Springboard",
     "interests"  : ["Machine Learning", "NLP", "Data Mining", "MLOps", "AI Research"],
-    "currently"  : "Building LeetCode solutions pipeline & a full-stack Brahmin food service app",
-    "fun_fact"   : "I'm also a Karate Instructor, Referee & Head of Tatami 🥋"
 }
 ```
 
