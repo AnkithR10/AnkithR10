@@ -24,12 +24,14 @@
 I'm a data enthusiast and aspiring ML Engineer who believes that every dataset has a story waiting to be told. From predicting depression through social media behaviour to building AI-powered email classifiers, I work at the intersection of **research, machine learning, and real-world impact**.
 
 ```python
-Ankith = {
+ankith = {
     "role"       : "Data Scientist / ML Engineer (Aspiring)",
     "education"  : "MCA – AI & Data Science @ Amrita Vishwa Vidyapeetham",
     "research"   : "First-author paper @ MIKE 2026 on Depression Prediction via Social Media",
     "internship" : "Team Lead (22 members) – AI-Powered Smart Email Classifier @ Infosys Springboard",
     "interests"  : ["Machine Learning", "NLP", "Data Mining", "MLOps", "AI Research"],
+    "currently"  : "Building LeetCode solutions pipeline & a full-stack Brahmin food service app",
+    "fun_fact"   : "I'm also a Karate Instructor, Referee & Head of Tatami 🥋"
 }
 ```
 
@@ -88,8 +90,13 @@ Developed a hybrid ML framework combining classification (SVM, KNN, ID3, Naïve 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkithR10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkithR10&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="36%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnkithR10&theme=tokyonight" width="94%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnkithR10&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnkithR10&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnkithR10&theme=tokyonight" width="32%" />
 </p>
 
 <p align="center">
