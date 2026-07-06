@@ -1,6 +1,8 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Ankith+R+%F0%9F%91%8B;Data+Scientist+%7C+ML+Engineer;AI+%26+Data+Science+Researcher;Turning+Data+into+Decisions" alt="Typing SVG" />
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1565C0,100:1E90FF&height=200&section=header&text=Ankith%20R&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20Researcher&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Ankith+R+%F0%9F%91%8B;Turning+Data+into+Decisions;AI+%26+Data+Science+Researcher;Aspiring+ML+Engineer" alt="Typing SVG" />
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AnkithR10&label=Profile+Views&color=1E90FF&style=flat-square" alt="Profile Views" />
@@ -147,5 +149,5 @@ Developed a hybrid ML framework combining classification (SVM, KNN, ID3, Naïve 
 <p align="center">
   <i>⭐ "Without data, you're just another person with an opinion." — W. Edwards Deming</i>
   <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=80&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:1565C0&height=120&section=footer" width="100%" />
 </p>
