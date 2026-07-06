@@ -90,17 +90,17 @@ Developed a hybrid ML framework combining classification (SVM, KNN, ID3, Naïve 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnkithR10&theme=tokyonight" width="94%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnkithR10&theme=nord_dark" width="94%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnkithR10&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnkithR10&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnkithR10&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnkithR10&theme=nord_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnkithR10&theme=nord_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnkithR10&theme=nord_dark" width="32%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AnkithR10&theme=tokyonight&hide_border=true" width="55%" />
+  <img src="https://streak-stats.demolab.com/?user=AnkithR10&theme=nord&hide_border=true" width="55%" />
 </p>
 
 <p align="center">
