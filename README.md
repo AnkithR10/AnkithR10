@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Ankith+R+%F0%9F%91%8B;Data+Scientist+%7C+ML+Engineer;AI+%26+Data+Science+Researcher;Turning+Data+into+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Ankith+R+%F0%9F%91%8B;Data+Scientist+%7C+ML+Engineer;AI+%26+Data+Science+Researcher;Turning+Data+into+Decisions" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnkithR10&label=Profile+Views&color=6E40C9&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AnkithR10&label=Profile+Views&color=1E90FF&style=flat-square" alt="Profile Views" />
   <a href="https://www.linkedin.com/in/ankith-r-/">
     <img src="https://img.shields.io/badge/LinkedIn-Ankith%20R-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Gmail-ankith.ravishankar-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/AnkithR10">
-    <img src="https://img.shields.io/github/followers/AnkithR10?label=Follow&style=flat-square&color=6E40C9" />
+    <img src="https://img.shields.io/github/followers/AnkithR10?label=Follow&style=flat-square&color=1E90FF" />
   </a>
 </p>
 
@@ -82,24 +82,24 @@ Developed a hybrid ML framework combining classification (SVM, KNN, ID3, Naïve 
 | 👤 [HR Analytics with ML & Clustering](https://github.com/AnkithR10/HR-Analytics-Using-Machine-Learning-and-Clustering) | EDA, PCA, Logistic Regression, ROC-AUC, Clustering | Python, Jupyter |
 | 🤟 [Sign Language Recognition](https://github.com/AnkithR10/Sign-Language-Recognition-AI-project) | Deep learning-based real-time sign language detection | Python, Deep Learning |
 | 🌍 [Life Expectancy Clustering](https://github.com/AnkithR10/Life-Expectancy-Clustering) | K-Means clustering of global health & socioeconomic data | Python, Pandas |
-| 🛒 BigMart Sales Prediction | Retail ML pipeline with feature engineering & regression | Python, Scikit-learn |
-| 🚖 Uber Data Analysis | EDA on ride patterns, demand hotspots & peak hours | Python, Matplotlib |
+| 🛒 [BigMart Sales Prediction](https://github.com/AnkithR10/BigMart-Sales-Prediction) | Retail ML pipeline with feature engineering & regression | Python, Scikit-learn |
+| 🚖 [Uber Data Analysis](https://github.com/AnkithR10/Uber-Data-Analysis) | EDA on ride patterns, demand hotspots & peak hours | Python, Matplotlib |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkithR10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkithR10&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnkithR10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkithR10&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="36%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkithR10&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=AnkithR10&theme=tokyonight&hide_border=true" width="55%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkithR10&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkithR10&theme=tokyo-night&hide_border=true" width="94%" />
 </p>
 
 ---
@@ -115,6 +115,9 @@ Developed a hybrid ML framework combining classification (SVM, KNN, ID3, Naïve 
 ---
 
 ## 📚 Currently Learning & Building
+
+- 🔁 Automating LeetCode solution sync pipeline (C / Java / Python → GitHub)
+- 📱 Building a full-stack app for Brahmin food services, traditional scheduling & lodging management
 - 🧪 Exploring MLOps, Data Engineering & Scalable AI Systems
 - 📖 Algorithm Design, Advanced ML & AI Research Methodologies
 
@@ -139,5 +142,5 @@ Developed a hybrid ML framework combining classification (SVM, KNN, ID3, Naïve 
 <p align="center">
   <i>⭐ "Without data, you're just another person with an opinion." — W. Edwards Deming</i>
   <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=80&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=80&section=footer" />
 </p>
