@@ -115,9 +115,6 @@ Developed a hybrid ML framework combining classification (SVM, KNN, ID3, Naïve 
 ---
 
 ## 📚 Currently Learning & Building
-
-- 🔁 Automating LeetCode solution sync pipeline (C / Java / Python → GitHub)
-- 📱 Building a full-stack app for Brahmin food services, traditional scheduling & lodging management
 - 🧪 Exploring MLOps, Data Engineering & Scalable AI Systems
 - 📖 Algorithm Design, Advanced ML & AI Research Methodologies
 
