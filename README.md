@@ -21,120 +21,277 @@
 
 ## 🧠 About Me
 
-🎓 **MCA student** specializing in **Artificial Intelligence & Data Science** at **Amrita Vishwa Vidyapeetham, Mysuru**
+🎓 **MCA student specializing in Artificial Intelligence & Data Science** at **Amrita Vishwa Vidyapeetham, Mysuru**
 
-I'm a data enthusiast and aspiring ML Engineer who believes that every dataset has a story waiting to be told. From predicting depression through social media behaviour to building AI-powered email classifiers, I work at the intersection of **research, machine learning, and real-world impact**.
+I'm an aspiring **Data Scientist and ML Engineer** interested in turning data into practical solutions through **Machine Learning, Data Science, NLP, AI Research, and intelligent systems**.
+
+My work spans academic research, applied machine learning, data analytics, competitive programming, and team leadership.
 
 ```python
 ankith = {
-    "role"       : "Data Scientist / ML Engineer (Aspiring)",
-    "education"  : "MCA – AI & Data Science @ Amrita Vishwa Vidyapeetham",
-    "research"   : "First-author paper @ MIKE 2026 on Depression Prediction via Social Media",
-    "internship" : "Team Lead (22 members) – AI-Powered Smart Email Classifier @ Infosys Springboard",
-    "interests"  : ["Machine Learning", "NLP", "Data Mining", "MLOps", "AI Research"],
-    "currently"  : "Building LeetCode solutions pipeline & a full-stack Brahmin food service app",
-    "fun_fact"   : "I'm also a Karate Instructor, Referee & Head of Tatami 🥋"
+    "role": "Aspiring Data Scientist / ML Engineer",
+    "education": "MCA – AI & Data Science @ Amrita Vishwa Vidyapeetham",
+    "focus": [
+        "Machine Learning",
+        "Data Science",
+        "NLP",
+        "AI Research",
+        "Data Analytics"
+    ],
+    "research": "Depression prediction using social media behaviour",
+    "internship": "Team Lead – Infosys Springboard Virtual Internship 6.0",
+    "current_project": "Risk-aware lane changing for autonomous vehicles",
+    "coding": "LeetCode + HackerRank",
+    "goal": "Build reliable, data-driven AI solutions"
 }
 ```
+
+---
+
+## 🎯 What I'm Working On
+
+🚗 **Autonomous Vehicle Research**
+Risk-aware optimised lane-changing decision and trajectory planning for autonomous vehicles.
+
+📧 **AI & NLP**
+Exploring intelligent email classification using NLP and transformer-based models.
+
+📊 **Machine Learning & Analytics**
+Working with predictive modelling, clustering, PCA, model evaluation, and data-driven decision making.
+
+💻 **DSA & Problem Solving**
+Practising coding problems on **LeetCode and HackerRank** while maintaining organised solution repositories on GitHub.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 ### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 📊 Data Science & ML
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-### 🔧 Backend & Tools
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 📊 Data Science & Machine Learning
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge\&logo=python\&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+### 🤖 AI & NLP
+
+![NLP](https://img.shields.io/badge/NLP-1E90FF?style=for-the-badge)
+![BERT](https://img.shields.io/badge/BERT-FF6F00?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge)
+
+### 🔧 Development & Tools
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge\&logo=googlecolab\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
 ---
 
-## 📄 Research & Publications
+## 🔬 Research
 
-> 🏆 **First-Author Research Paper**
+### 🧠 Predicting Depression Through Social Media Behaviour
 
-**"Predicting Depression Through Social Media Behavior: Integrating Behavioral Features and Hybrid Methodologies"**
-📍 Submitted to **MIKE 2026** *(Mining Intelligence and Knowledge Exploration)*
+**"Predicting Depression Through Social Media Behaviour: Integrating Behavioural Features and Hybrid Methodologies"**
 
-Developed a hybrid ML framework combining classification (SVM, KNN, ID3, Naïve Bayes) and clustering (K-Means, K-Medoids) models to identify depression indicators from social media behavioral data — with a focus on model interpretability and real-world applicability.
+📍 **Research submitted to MIKE 2026 — Mining Intelligence and Knowledge Exploration**
+
+A machine learning research study investigating the relationship between social media behavioural patterns and depression indicators.
+
+**Approaches explored:**
+
+* Support Vector Machine (SVM)
+* K-Nearest Neighbours (KNN)
+* ID3 Decision Tree
+* Naïve Bayes
+* K-Means Clustering
+* K-Medoids Clustering
+
+The study combines **classification and clustering techniques** to investigate behavioural patterns and evaluate their usefulness for depression prediction.
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🧠 [Predicting Depression via Social Media](https://github.com/AnkithR10/Predicting-Depression-Through-Social-Media-Behaviour) | First-author ML research using SVM, KNN, ID3, K-Means & K-Medoids | Python, Scikit-learn |
-| 📧 [AI-Powered Smart Email Classifier](https://github.com/AnkithR10/AI-Powered-Smart-Email-Classifier-for-Enterprises) | Led 22-member team for Infosys Springboard enterprise AI project | Python, NLP |
-| 👤 [HR Analytics with ML & Clustering](https://github.com/AnkithR10/HR-Analytics-Using-Machine-Learning-and-Clustering) | EDA, PCA, Logistic Regression, ROC-AUC, Clustering | Python, Jupyter |
-| 🤟 [Sign Language Recognition](https://github.com/AnkithR10/Sign-Language-Recognition-AI-project) | Deep learning-based real-time sign language detection | Python, Deep Learning |
-| 🌍 [Life Expectancy Clustering](https://github.com/AnkithR10/Life-Expectancy-Clustering) | K-Means clustering of global health & socioeconomic data | Python, Pandas |
-| 🛒 [BigMart Sales Prediction](https://github.com/AnkithR10/BigMart-Sales-Prediction) | Retail ML pipeline with feature engineering & regression | Python, Scikit-learn |
-| 🚖 [Uber Data Analysis](https://github.com/AnkithR10/Uber-Data-Analysis) | EDA on ride patterns, demand hotspots & peak hours | Python, Matplotlib |
+### 🧠 Predicting Depression Through Social Media Behaviour
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-1E90FF?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/AnkithR10/Predicting-Depression-Through-Social-Media-Behaviour)
+
+First-author ML research combining supervised classification and unsupervised clustering to analyse social media behavioural patterns.
+
+**Tech:** Python • Pandas • Scikit-learn • Machine Learning
 
 ---
 
-## 📊 GitHub Stats
+### 📧 AI-Powered Smart Email Classifier
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnkithR10&theme=nord_dark" width="94%" />
-</p>
+**Infosys Springboard Virtual Internship 6.0**
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnkithR10&theme=nord_dark" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnkithR10&theme=nord_dark" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnkithR10&theme=nord_dark" width="32%" />
-</p>
+[![View Repository](https://img.shields.io/badge/View%20Repository-1E90FF?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/AnkithR10/AI-Powered-Smart-Email-Classifier-for-Enterprises)
+
+Led a **22-member team** in developing an enterprise-oriented email classification system using NLP and machine learning.
+
+**Tech:** Python • NLP • DistilBERT • FastAPI • Machine Learning
+
+**Best DistilBERT F1 Score:** ~95.5%
+
+---
+
+### 👥 HR Analytics Using Machine Learning & Clustering
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-1E90FF?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/AnkithR10/HR-Analytics-Using-Machine-Learning-and-Clustering)
+
+End-to-end HR analytics project covering exploratory data analysis, dimensionality reduction, classification and clustering.
+
+**Tech:** Python • Pandas • PCA • Scikit-learn • K-Means • K-Medoids • Hierarchical Clustering
+
+---
+
+### 🤟 Sign Language Recognition
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-1E90FF?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/AnkithR10/Sign-Language-Recognition-AI-project)
+
+Deep learning-based project focused on recognising sign language gestures.
+
+**Tech:** Python • Deep Learning • Computer Vision
+
+---
+
+### 🌍 Life Expectancy Clustering
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-1E90FF?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/AnkithR10/Life-Expectancy-Clustering)
+
+Data mining project using preprocessing, the elbow method and K-Means clustering to explore global health and socioeconomic patterns.
+
+**Tech:** Python • Pandas • Scikit-learn • K-Means
+
+---
+
+### 🛒 BigMart Sales Prediction
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-1E90FF?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/AnkithR10/BigMart-Sales-Prediction)
+
+Machine learning project focused on retail sales prediction using exploratory analysis, preprocessing and predictive modelling.
+
+**Tech:** Python • Pandas • Scikit-learn • Regression
+
+---
+
+### 🚖 Uber Data Analysis
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-1E90FF?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/AnkithR10/Uber-Data-Analysis)
+
+Exploratory data analysis of Uber ride patterns, peak hours and demand trends.
+
+**Tech:** Python • Pandas • Matplotlib • Data Analysis
+
+---
+
+## 💻 Coding & Problem Solving
+
+### 🟨 LeetCode Solutions
+
+[![LeetCode Repository](https://img.shields.io/badge/LeetCode%20Solutions-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=white)](https://github.com/AnkithR10/LeetCode-Solutions)
+
+A continuously updated collection of solutions to **LeetCode problems**, maintained through **LeetHub** to automatically sync solved problems with GitHub.
+
+**Focus:** Data Structures • Algorithms • Problem Solving • Interview Preparation
+
+**Languages:** Python • C • Java
+
+---
+
+### 🟩 HackerRank Solutions
+
+[![HackerRank Repository](https://img.shields.io/badge/HackerRank%20Solutions-00EA64?style=for-the-badge\&logo=hackerrank\&logoColor=white)](https://github.com/AnkithR10/hackerrank-solutions)
+
+A dedicated repository for practising and documenting **HackerRank programming challenges**.
+
+**Focus:** Algorithms • Data Structures • Problem Solving • Coding Practice
+
+**Languages:** Python • C • Java
+
+---
+
+### 🧩 My Coding Practice
+
+My coding repositories reflect my ongoing preparation for:
+
+* 💡 Technical interviews
+* 🧮 Data Structures & Algorithms
+* 🐍 Python problem solving
+* 💻 Programming fundamentals
+* 🏢 Software & ML engineering assessments
+
+---
+
+## 🏆 Achievements & Leadership
+
+* 👨‍💼 **Team Lead — Infosys Springboard Virtual Internship 6.0**
+
+  * Led a 22-member team
+  * Developed an AI-powered enterprise email classification system
+
+* 🏫 **Smart India Hackathon 2024**
+
+  * Team Lead
+  * AgriTech price prediction using LSTM
+  * Reached college-level finals
+
+* 🥋 **Karate Instructor | Referee | Judge | Head of Tatami**
+
+  * Leadership and tournament-level experience
+
+* 📜 **30+ Professional Certifications**
+
+  * AI, Data Science, Machine Learning, Generative AI and professional skills
+
+* 🤝 **IEEE CCEM Volunteer**
+
+  * Contributed to professional technology and academic events
+
+---
+
+## 📚 Currently Learning
+
+* 🤖 Advanced Machine Learning & Deep Learning
+* 🧠 NLP & Transformer-based models
+* ⚙️ MLOps & AI Engineering
+* 📊 Data Engineering & scalable data systems
+* 🧮 Algorithms & Data Structures
+* 🚗 Autonomous Vehicle Intelligence
+* 🔬 Machine Learning Research Methodologies
+
+---
+
+## 📈 GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=AnkithR10&theme=nord&hide_border=true" width="55%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkithR10&theme=tokyo-night&hide_border=true" width="94%" />
+  <i>Explore my repositories to see my projects, research work and ongoing coding practice.</i>
 </p>
 
 ---
 
-## 🏆 Achievements & Leadership
-
-- 🥋 **Karate Instructor | Referee | Judge | Head of Tatami** – Tournament-level credentials
-- 👨‍💼 **Team Lead (22 members)** – Infosys Springboard Virtual Internship 6.0
-- 🏫 **SIH 2024** – Led AgriTech LSTM Price Prediction project to college-level finals
-- 📜 **30+ Certifications** – Infosys Springboard, Coursera, LinkedIn Learning, Great Learning
-- 🤝 **IEEE CCEM Volunteer** – Active contributor to professional tech conferences
-
----
-
-## 📚 Currently Learning & Building
-
-- 🔁 Automating LeetCode solution sync pipeline (C / Java / Python → GitHub)
-- 📱 Building a full-stack app for Brahmin food services, traditional scheduling & lodging management
-- 🧪 Exploring MLOps, Data Engineering & Scalable AI Systems
-- 📖 Algorithm Design, Advanced ML & AI Research Methodologies
-
----
-
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ankith-r-/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/AnkithR10">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
@@ -147,7 +304,9 @@ Developed a hybrid ML framework combining classification (SVM, KNN, ID3, Naïve 
 ---
 
 <p align="center">
-  <i>⭐ "Without data, you're just another person with an opinion." — W. Edwards Deming</i>
-  <br><br>
+  <i>⭐ Turning data into insights, models into solutions, and ideas into impact.</i>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:1565C0&height=120&section=footer" width="100%" />
 </p>
