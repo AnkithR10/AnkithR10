@@ -1,5 +1,7 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1565C0,100:1E90FF&height=200&section=header&text=Ankith%20R&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20Data%20Science%20%7C%20Machine%20Learning%20%7C%20Research&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1565C0,100:1E90FF&amp;height=200&amp;section=header&amp;text=Ankith%20R&amp;fontSize=60&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=AI%20%26%20Data%20Science%20%7C%20Machine%20Learning%20%7C%20Research&amp;descAlignY=58&amp;descSize=18&amp;animation=fadeIn" width="100%" />
+
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1E90FF&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Ankith+R!;MCA+Student+in+AI+%26+Data+Science;Machine+Learning+Researcher;Turning+Data+into+Insights;Building+Intelligent+Solutions" alt="Typing SVG" />
